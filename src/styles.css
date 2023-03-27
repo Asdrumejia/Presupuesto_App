@@ -1,1 +1,15 @@
-/* You can add global styles to this file, and also import other style files */
+body{
+    background: #4AC29A; 
+    background: -webkit-linear-gradient(to right, #BDFFF3, #4AC29A, #BDFFF3);
+    background: linear-gradient(to right, #BDFFF3, #4AC29A, #BDFFF3);
+    font-family: "JetBrains Mono";
+}
+
+.fontTitle {
+    color: #FFFF;
+    font-size: 3rem;
+}
+
+.textError {
+    font-size: 1rem;
+}

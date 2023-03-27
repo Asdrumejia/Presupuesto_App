@@ -1,0 +1,11 @@
+input {
+    text-align: center;
+}
+
+span {
+    text-transform: uppercase;
+}
+
+button {
+    width: 100%;
+}
